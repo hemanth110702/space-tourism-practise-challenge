@@ -2,7 +2,7 @@
 
 This is my second challenge in scrimba, which is responsive space tourism website.
 
-Want to experience this page in your browser, click on the link below
+Want to experience this page in your browser, click on the link below    
 https://hemanth110702.github.io/space-tourism/
 
 
