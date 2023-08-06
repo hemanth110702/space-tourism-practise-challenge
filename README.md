@@ -14,6 +14,7 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 -   [My process](#my-process)
     -   [Built with](#built-with)
     -   [What I learned](#what-i-learned)
+    -   [Continued Development](#continued-development)
 -   [Author](#author)
 -   [Acknowledgments](#acknowledgments)
 
