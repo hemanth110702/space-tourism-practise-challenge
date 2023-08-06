@@ -15,7 +15,7 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
     -   [Built with](#built-with)
     -   [What I learned](#what-i-learned)
 -   [Author](#author)
--   [Acknowledgments](#Acknowledgments)
+-   [Acknowledgments](#acknowledgments)
 
 </details>
 
